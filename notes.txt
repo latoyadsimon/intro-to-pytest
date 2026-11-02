@@ -1,0 +1,5 @@
+11/02/2026
+added tests
+for simple calc functions.
+Curriculum lesson:
+Intro to TDD with PyTest
